@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@600&display=swap');
+
+h1 {
+  font-family: Sacramento;
+}
+
+h2 {
+  font-family: 'EB Garamond', serif;
+}
+
+p1 {
+   font-family: 'Cormorant', serif;
+   color: #000000;
+   font-size:25px;
+}
+
+p2 {
+  font-family: Sacramento;
+}
+
+p3 {
+  font-family: 'Cormorant', serif;
+   color: #000000;
+   font-size:25px;
+}
